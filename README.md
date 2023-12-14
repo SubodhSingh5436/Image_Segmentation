@@ -73,4 +73,4 @@ We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competition
 We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
 
 ## Acknowledgments
-I'm Really Thankful for my Colleagues and My Professor Jignesh Bhatt.
+I'm Really Thankful for my Colleagues and My Professor Dr.Jignesh Bhatt.
