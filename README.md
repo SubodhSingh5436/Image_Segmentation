@@ -55,7 +55,7 @@ Feel free to explore the U-Net architecture further in the [original paper](http
 
 ### Installation
 
-##Clone the Repository:
+## Clone the Repository:
 ```bash
 git clone https://github.com/your-username/unet-image-segmentation.git
 ```
@@ -67,10 +67,10 @@ cd unet-image-segmentation
 pip install -r requirements.txt
 ```
 ## Dataset 
-We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competitions/data-science-bowl-2018).
+We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competitions/data-science-bowl-2018) to train our Model.
 
-##Contributions
+## Contributions
 We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
 
-##Acknowledgments
+## Acknowledgments
 I'm Really Thankful for my Colleagues and My Professor Jignesh Bhatt.
