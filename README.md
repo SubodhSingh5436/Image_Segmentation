@@ -1,6 +1,5 @@
 # Image Segmentation with U-Net
 
-![U-Net Architecture](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png)
 
 ## Overview
 
@@ -15,6 +14,37 @@ Welcome to the **Image Segmentation with U-Net** repository. This project utiliz
 - **Training and Inference**: Train the **U-Net** model on your custom datasets or use pre-trained models for quick inference.
 
 - **Customization**: Fine-tune **U-Net** parameters and hyperparameters to meet the specific requirements of your segmentation task.
+
+## U-Net Architecture
+
+[U-Net](link-to-u-net-paper) is a convolutional neural network architecture designed for semantic segmentation tasks. It consists of a contracting path, a bottleneck, and an expansive path. The architecture is renowned for its ability to capture fine details while also maintaining contextual information, making it particularly effective for image segmentation.
+
+### Overview
+
+The U-Net architecture can be divided into the following key components:
+
+1. **Contracting Path:**
+   - Consists of a series of convolutional and pooling layers.
+   - Captures context and reduces spatial resolution.
+
+2. **Bottleneck:**
+   - Located at the center of the network.
+   - Serves as a bridge between the contracting and expansive paths.
+   - Retains high-level semantic information.
+
+3. **Expansive Path:**
+   - Involves up-sampling and concatenation operations.
+   - Restores spatial resolution and refines segmentation predictions.
+
+### U-Net Diagram
+
+![U-Net Architecture Diagram](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png)
+
+### Usage in this Project
+
+In this project, the U-Net architecture is employed for image segmentation tasks. The `unet.py` file in the repository contains the implementation of the U-Net model.
+
+Feel free to explore the U-Net architecture further in the [original paper](https://arxiv.org/abs/1505.04597) for a detailed understanding.
 
 ## Getting Started
 
@@ -35,5 +65,5 @@ Welcome to the **Image Segmentation with U-Net** repository. This project utiliz
 cd unet-image-segmentation
 pip install -r requirements.txt
 ```
-## Dataset Preparation
+## Dataset 
 Follow the dataset preparation gu.
