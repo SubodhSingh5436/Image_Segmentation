@@ -73,10 +73,13 @@ We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competition
 These are some Plots of Loss and Validation.
 
 
-![Loss](https://drive.google.com/file/d/1h8dCNPrp-VKS2q2TI94mZTXwLQYgB3mc/view?usp=sharing)
+![Loss](https://github.com/SubodhSingh5436/Image_Segmentation/assets/93370103/71e7a1ec-6b59-451f-af1d-d9b10d957160)
 
 
-![validation](https://drive.google.com/file/d/1vukuIS9Cq93Txo1RyfktrQceacT6NBft/view?usp=sharing)
+
+![validation](https://github.com/SubodhSingh5436/Image_Segmentation/assets/93370103/12001835-c86f-4776-9efd-d7fea3accd74)
+
+
 
 ## Contributions
 We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
