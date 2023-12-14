@@ -1,6 +1,6 @@
 # Image Segmentation with U-Net
 
-![U-Net Architecture]([path-to-your-image/unet_architecture.png](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png))
+![U-Net Architecture]([https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png])
 
 ## Overview
 
