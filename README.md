@@ -67,3 +67,9 @@ pip install -r requirements.txt
 ```
 ## Dataset 
 We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competitions/data-science-bowl-2018)
+
+##Contributions
+We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
+
+##Acknowledgments
+I'm Really Thankful for my Colleagues and My Professor Jignesh Bhatt.
