@@ -71,8 +71,12 @@ We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competition
 
 ## Results
 These are some Plots of Loss and Validation.
-[Loss](https://drive.google.com/file/d/1h8dCNPrp-VKS2q2TI94mZTXwLQYgB3mc/view?usp=sharing)
-[validation](https://drive.google.com/file/d/1vukuIS9Cq93Txo1RyfktrQceacT6NBft/view?usp=sharing)
+
+
+![Loss](https://drive.google.com/file/d/1h8dCNPrp-VKS2q2TI94mZTXwLQYgB3mc/view?usp=sharing)
+
+
+![validation](https://drive.google.com/file/d/1vukuIS9Cq93Txo1RyfktrQceacT6NBft/view?usp=sharing)
 
 ## Contributions
 We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
