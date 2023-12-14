@@ -66,4 +66,4 @@ cd unet-image-segmentation
 pip install -r requirements.txt
 ```
 ## Dataset 
-Follow the dataset preparation gu.
+We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competitions/data-science-bowl-2018)
