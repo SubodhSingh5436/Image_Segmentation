@@ -48,24 +48,6 @@ Feel free to explore the U-Net architecture further in the [original paper](http
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- GPU to Speed up the Process.
-
-### Installation
-
-## Clone the Repository:
-```bash
-git clone https://github.com/your-username/unet-image-segmentation.git
-```
-   
-## Install Dependencies:
-
-```bash
-cd unet-image-segmentation
-pip install -r requirements.txt
-```
 ## Dataset 
 We are Using Data Science Bowl 2018 [Dataset](https://www.kaggle.com/competitions/data-science-bowl-2018) to train our Model.
 
