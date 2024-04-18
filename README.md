@@ -66,5 +66,6 @@ These are some Plots of Loss and Validation.
 ## Contributions
 We welcome contributions! If you have ideas for improvements, additional features, or bug fixes, please create an issue or submit a pull request. Refer to the Contribution Guidelines for more information.
 
-## Acknowledgments
-I'm Really Thankful for my Colleagues and My Professor Dr.Jignesh Bhatt.
+
+
+
